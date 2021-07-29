@@ -1,0 +1,1 @@
+This are my assignments for topic git and github, a part of my jfs-React training in Capgemini
