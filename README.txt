@@ -8,3 +8,6 @@ Mongodb assignmnents
 Section-1
 section-2
 Section-3
+
+Core java section
+Uml assignments-4 daigrams
